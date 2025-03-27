@@ -1,0 +1,5 @@
+config.json
+*.txt
+test
+dir1/
+dir2/*.js
